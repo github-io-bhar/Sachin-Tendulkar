@@ -1,0 +1,10 @@
+body {
+  background-color: pink;
+  text-align: center;
+  font-family: 'roboto', sans-serif
+}
+img {
+  text-align: center;
+  height: 150px;
+  widht: 150px;
+}
